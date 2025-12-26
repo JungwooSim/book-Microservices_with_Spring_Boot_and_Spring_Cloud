@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapstruct/mapstruct-processor/1.6.3/52e345c907fbf173b376586c7f8b131d53fa5867/mapstruct-processor-1.6.3.jar" />
+        </processorPath>
+        <module name="book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.product-service.test" />
+        <module name="book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.recommendation-service.test" />
+        <module name="book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.review-service.test" />
+        <module name="book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.product-service.main" />
+        <module name="book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.recommendation-service.main" />
+        <module name="book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.review-service.main" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel target="24" />
   </component>
   <component name="JavacSettings">

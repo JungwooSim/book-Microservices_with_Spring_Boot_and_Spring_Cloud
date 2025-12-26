@@ -14,10 +14,10 @@ public class ServiceAddresses {
   }
 
   public ServiceAddresses(
-    String compositeAddress,
-    String productAddress,
-    String reviewAddress,
-    String recommendationAddress) {
+   String compositeAddress,
+   String productAddress,
+   String reviewAddress,
+   String recommendationAddress) {
 
     this.cmp = compositeAddress;
     this.pro = productAddress;
