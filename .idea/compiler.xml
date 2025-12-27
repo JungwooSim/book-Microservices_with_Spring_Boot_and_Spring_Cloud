@@ -31,6 +31,9 @@
       <module name="book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.review-service" options="-parameters" />
       <module name="book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.review-service.main" options="-parameters" />
       <module name="book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.review-service.test" options="-parameters" />
+      <module name="book-Microservices_with_Spring_Boot_and_Spring_Cloud.spring-cloud.authorization-server" options="-parameters" />
+      <module name="book-Microservices_with_Spring_Boot_and_Spring_Cloud.spring-cloud.authorization-server.main" options="-parameters" />
+      <module name="book-Microservices_with_Spring_Boot_and_Spring_Cloud.spring-cloud.authorization-server.test" options="-parameters" />
       <module name="book-Microservices_with_Spring_Boot_and_Spring_Cloud.spring-cloud.eureka-server" options="-parameters" />
       <module name="book-Microservices_with_Spring_Boot_and_Spring_Cloud.spring-cloud.eureka-server.main" options="-parameters" />
       <module name="book-Microservices_with_Spring_Boot_and_Spring_Cloud.spring-cloud.eureka-server.test" options="-parameters" />
