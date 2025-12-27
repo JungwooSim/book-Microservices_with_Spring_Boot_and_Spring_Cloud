@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservices/product-service/book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.product-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/microservices/product-service/book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.product-service.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservices/product-service/book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.product-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/microservices/product-service/book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.product-service.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservices/recommendation-service/book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.recommendation-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/microservices/recommendation-service/book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.recommendation-service.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservices/review-service/book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.review-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/microservices/review-service/book-Microservices_with_Spring_Boot_and_Spring_Cloud.microservices.review-service.main.iml" />
     </modules>
